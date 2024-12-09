@@ -10,7 +10,7 @@ Get familiar with Python and essential data science libraries.
 - **Topics**: Python basics, Jupyter Notebook, Pandas, NumPy, Matplotlib
 - **Activities**: Setting up environments, basic data exploration on sample datasets
 
-## Week 1: Linear and Logistic Regression
+## [Week 1](./Week%201/): Linear and Logistic Regression
 Introduction to regression techniques, both linear and logistic, for predicting numerical and categorical outcomes.
 
 - **Topics**: Linear regression, logistic regression, regularization
